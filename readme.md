@@ -1,6 +1,16 @@
 # 字幕翻譯與處理工具集
+[![GitHub license](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/your-repo/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
 
 這個專案包含三個 Python 程式，用於處理和翻譯字幕檔案。
+
+## 快速開始
+
+### 下載
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
 
 ## 環境需求
 
@@ -78,3 +88,9 @@ python test_import.py
 - 確保執行程式時有穩定的網路連接，因為翻譯功能需要連接 Google 翻譯服務
 - 翻譯大型檔案時可能需要較長時間，請耐心等待
 - 建議在執行翻譯前先使用 test_import.py 確認環境設置正確
+
+## 貢獻
+歡迎提交 Pull Request 或建立 Issue 來改善這個專案。
+
+## 授權
+本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 檔案。
