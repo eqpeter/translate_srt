@@ -1,6 +1,8 @@
 # 字幕翻譯與處理工具集
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/your-repo/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eqpeter/translate_srt)](https://github.com/eqpeter/translate_srt/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/eqpeter/translate_srt)](https://github.com/eqpeter/translate_srt/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/eqpeter/translate_srt)](https://github.com/eqpeter/translate_srt/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/eqpeter/translate_srt)](https://github.com/eqpeter/translate_srt/issues)
 
 這個專案包含三個 Python 程式，用於處理和翻譯字幕檔案。
 
@@ -8,8 +10,8 @@
 
 ### 下載
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/eqpeter/translate_srt.git
+cd translate_srt
 ```
 
 ## 環境需求
